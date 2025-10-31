@@ -11,7 +11,8 @@
     },
     {
       "name": "Ylen",
-      "ioValue": 10
+      "ioValue": 10,
+      "currentEquation": "10"
     },
     {
       "name": "thickness",
@@ -381,6 +382,7 @@
       "ap2ID": "5ab02893-089c-4c7d-b9be-5a13be2a1e3d"
     }
   ],
+  "unitsKey": "Inches",
   "fileTypeVersion": 1,
   "compiledBom": [],
   "filetypeVersion": 1
